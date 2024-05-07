@@ -5,7 +5,16 @@ Welcome to my LeetCode problem playlist! This repository is dedicated to documen
 ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
 
 ## Overview
-In this repository, I'll be systematically tackling LeetCode problems categorized by difficulty level, aiming to enhance my problem-solving skills and algorithmic thinking. The problems will be organized into different tiers based on their complexity, with the goal of gradually improving my proficiency and understanding of data structures and algorithms.
+In this repository, I'll be systematically tackling LeetCode problems categorized by difficulty level, aiming to enhance my problem-solving skills and algorithmic thinking. The problems will cover the following important topics:
+- **Stacks**
+- **Recursion**
+- **Dynamic Programming (DP)**
+- **Graphs**
+- **Backtracking**
+- **Queues**
+- **Strings**
+- **Arrays**
+- **Hash Tables**
 
 ## Structure
 The repository will be structured as follows:
